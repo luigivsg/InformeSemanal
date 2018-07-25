@@ -1,0 +1,9 @@
+Git init		Inicia un repo
+Git add 		Agrega los archivos
+git --global user.name "nombre" 		Identificate
+git --global user.email "mail@mail.com"		Identifica tu email
+Git log 		Ve los cambios realizados y su hash
+git checkout AQUI.NUMERO.HASH 		Volvemos al commit del numero hash q pongamos (vistos en el log)
+git checkout master 		Devulve todo hacia el ultimo commit hecho
+git help 		para obetener detalles
+git help status 	Para saber sobrer status
